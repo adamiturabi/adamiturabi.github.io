@@ -1,0 +1,8 @@
+#!/bin/sh
+#Rscript -e "rmarkdown::render('index.Rmd','html_document')"
+#Rscript -e "rmarkdown::render('index.Rmd','bookdown::gitbook')"
+Rscript -e "rmarkdown::render('index.Rmd','bookdown::gitbook', output_file='index.html', output_dir='.')"
+touch .nojekyll
+#sed -i "/^<head>$/a <style> @import url('https://fonts.googleapis.com/css?family=Amiri&display=swap'); </style>" docs/index.html
+#Rscript -e "bookdown::render_book('index.Rmd','bookdown::gitbook')"
+
