@@ -42,6 +42,7 @@ output:
 
 + [Rules for writing hamza in the Arabic script](https://adamiturabi.github.io/hamza-rules/)
 + [Classification of Arabic nouns and their use as qualitative nouns](https://adamiturabi.github.io/noun-class-nahw-wafi/)
++ [Using pandoc lua filters to input and romanize Arabic in Rmarkdown documents](https://github.com/adamiturabi/adamiturabi.github.io.git)
 + [A consistent romanization scheme for Arabic, Classical Persian, and Urdu](https://adamiturabi.github.io/romanization-scheme/)
 + [A disambiguating diacritical scheme for Classical Persian and Urdu vowels in the Arabic script](https://adamiturabi.github.io/urdu-diacritics/)
 + [Setting up scanned PDFs for printing](https://github.com/adamiturabi/print-scanned-books)
