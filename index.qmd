@@ -1,0 +1,14 @@
+---
+title: "My Projects"
+---
+
+Here is a list of some of my projects:
+
+* [_A Grammar of Standard Classical Arabic_](https://adamiturabi.github.io/arabic-tutorial-book/)  
+  This is an online book, rendered using [Quarto](https://quarto.org/), that aims to teach students Standard Classical Arabic.
+  It is a work in progress.
+* [Minimum(ish) Working Example of Quarto with Arabic RTL text in an LTR document](https://adamiturabi.github.io/quarto-arabic-mwe)
+* [Hava Arabic Dictionary digitization project ](https://adamiturabi.github.io/hava-dig)  
+  (work in progress)
+
+
