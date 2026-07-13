@@ -9,8 +9,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Projects",
+    "title": "My Page",
     "section": "",
-    "text": "Here is a list of some of my projects:\n\nA Grammar of Standard Classical Arabic\nThis is an online book, rendered using Quarto, that aims to teach students Standard Classical Arabic. It is a work in progress.\nMinimum(ish) Working Example of Quarto with Arabic RTL text in an LTR document\nHava Arabic Dictionary digitization project\n(work in progress)\nCurated list of good quality online books"
+    "text": "https://github.com/adamiturabi"
+  },
+  {
+    "objectID": "index.html#my-github-page",
+    "href": "index.html#my-github-page",
+    "title": "My Page",
+    "section": "",
+    "text": "https://github.com/adamiturabi"
+  },
+  {
+    "objectID": "index.html#my-projects",
+    "href": "index.html#my-projects",
+    "title": "My Page",
+    "section": "My projects",
+    "text": "My projects\nHere is a list of some of my projects:\n\nA Grammar of Standard Classical Arabic\nThis is an online book, rendered using Quarto, that aims to teach students Standard Classical Arabic. It is a work in progress.\nMinimum(ish) Working Example of Quarto with Arabic RTL text in an LTR document\nHava Arabic Dictionary digitization project\n(work in progress)\nCurated list of good quality online books"
+  },
+  {
+    "objectID": "index.html#research-topics",
+    "href": "index.html#research-topics",
+    "title": "My Page",
+    "section": "Research topics",
+    "text": "Research topics\nHere are some research topics that I find interesting. I’m not sure I have the training to undertake them but I would be interested in reading dissertations/books/papers on them:\n\nHow did Classical Arabic express “There is a …” sentences? For example,\n\n“There is a god.”\n“There is a heaven and there is a hell.”\n\nMSA uses هناك and the modern vernaculars use various words like في، است, etc.\nSynchonically, how did Classical Arabic speakers get around it? What did the إسناد (مسند, مسند إليه) of such a sentence look like?\nDiachronically, was أيس ever used? Was it as ubiquituous as “is”? How did the modern vernaculars get their existentials?\nA unifying model that encapsulates تقدير, عمل, اشتغال and solves some of the problematic areas where عمل doesn’t seem fulfilling. Can we bring dependency grammar into the picture without throwing out عمل?\n\nIf you have any links to material on these topics, feel welcome to open a discussions thread here: https://github.com/adamiturabi/arabic-tutorial-book/discussions"
   }
 ]

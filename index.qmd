@@ -1,6 +1,12 @@
 ---
-title: "My Projects"
+title: "My Page"
 ---
+
+## My GitHub page
+
+<https://github.com/adamiturabi>
+
+## My projects
 
 Here is a list of some of my projects:
 
@@ -12,4 +18,24 @@ Here is a list of some of my projects:
   (work in progress)
 * [Curated list of good quality online books](https://adamiturabi.github.io/online-books-list/)
 
+## Research topics
+
+Here are some research topics that I find interesting.
+I'm not sure I have the training to undertake them but I would be interested in reading dissertations/books/papers on them:
+
+1. How did Classical Arabic express "There is a ..." sentences? For example,
+
+   + "There is a god."
+   + "There is a heaven and there is a hell."
+
+   MSA uses هناك and the modern vernaculars use various words like في، است, etc.
+
+   Synchonically, how did Classical Arabic speakers get around it? What did the إسناد (مسند, مسند إليه) of such a sentence look like?
+
+   Diachronically, was أيس ever used? Was it as ubiquituous as "is"? How did the modern vernaculars get their existentials?
+
+2. A unifying model that encapsulates تقدير, عمل, اشتغال and solves some of the problematic areas where عمل doesn't seem fulfilling. Can we bring dependency grammar into the picture without throwing out عمل?
+
+If you have any links to material on these topics, feel welcome to open a discussions thread here:
+<https://github.com/adamiturabi/arabic-tutorial-book/discussions>
 
