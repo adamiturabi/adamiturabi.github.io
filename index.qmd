@@ -33,6 +33,11 @@ I'm not sure I have the training to undertake them but I would be interested in 
 
    Diachronically, was أَيْسَ used ubiquituously and then it became disused? Is it a congnate of Hebrew YESH (יֵשׁ)? What were the causes of Arabic losing أَيس , not needing an existential for a while, and then developing the existential في?
 
+   Some relevant material:
+
+   1. Khalid Said, "Existential Constructions in Classical Arabic and the Reduction of Deicticity in Modern Standard Arabic: A Comparative Study" <https://www.academia.edu/94158819/>
+   2. Allahem, K. S., Alharbi, B. Y. (2023). On the Syntax of Existential Sentences in Standard Arabic. WORD, 69(2), 137–159. <https://doi.org/10.1080/00437956.2023.2202603>
+
 2. A unifying model that encapsulates تقدير, عمل, اشتغال and solves some of the problematic areas where عمل doesn't seem fulfilling. Can we bring dependency grammar into the picture without throwing out عمل?
 
 If you have any links to material on these topics, feel welcome to open a discussions thread here:
