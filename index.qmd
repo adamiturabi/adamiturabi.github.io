@@ -16,9 +16,8 @@ Here is a list of some of my projects:
 * [Minimum(ish) Working Example of Quarto with Arabic RTL text in an LTR document](https://adamiturabi.github.io/quarto-arabic-mwe)
 * [Hava Arabic Dictionary digitization project ](https://adamiturabi.github.io/hava-dig)  
   (work in progress)
-* [Curated list of good quality online books](https://adamiturabi.github.io/online-books-list/)
 
-## Research topics
+## Interesting research topics
 
 Here are some research topics that I find interesting.
 I'm not sure I have the training to undertake them but I would be interested in reading dissertations/books/papers on them:
