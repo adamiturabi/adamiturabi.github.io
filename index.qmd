@@ -39,3 +39,18 @@ I'm not sure I have the training to undertake them but I would be interested in 
 If you have any links to material on these topics, feel welcome to open a discussions thread here:
 <https://github.com/adamiturabi/arabic-tutorial-book/discussions>
 
+## Curated list of online books
+
+Here is a list of online books with interesting design and good typesetting, that I have found:
+
++ [Butterick's _Practical Typography_](https://practicaltypography.com/)  
+  Subject: Typography
++ [_The Art of Chance_ by Dennis Sun, Gene Kim, and Anav Sood](https://dlsun.github.io/skis/)  
+  Subject: Probability
++ [_Interactive Linear Algebra_ by Dan Margalit, Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/)  
+  Subject: Linear Algebra
++ [_Introduction to Modern Statistics_ by Mine Çetinkaya-Rundel and Johanna Hardin](https://openintro-ims.netlify.app/)  
+  Subject: Statistics
++ [_MathNotes_](https://math-website.pages.dev/)  
+  Subject: Math
+

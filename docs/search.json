@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "My Page",
@@ -33,5 +26,12 @@
     "title": "My Page",
     "section": "Research topics",
     "text": "Research topics\nHere are some research topics that I find interesting. I’m not sure I have the training to undertake them but I would be interested in reading dissertations/books/papers on them:\n\nHow did Classical Arabic express “There is a …” sentences? For example,\n\n“There is a god.”\n“There is a heaven and there is a hell.”\n\nMSA uses هناك and the modern vernaculars use various words like في، است, etc.\nSynchonically, how did Classical Arabic speakers get around it? What did the إسناد (مسند, مسند إليه) of such a sentence look like?\nDiachronically, was أيس ever used? Was it as ubiquituous as “is”? How did the modern vernaculars get their existentials?\nA unifying model that encapsulates تقدير, عمل, اشتغال and solves some of the problematic areas where عمل doesn’t seem fulfilling. Can we bring dependency grammar into the picture without throwing out عمل?\n\nIf you have any links to material on these topics, feel welcome to open a discussions thread here: https://github.com/adamiturabi/arabic-tutorial-book/discussions"
+  },
+  {
+    "objectID": "index.html#curated-list-of-online-books",
+    "href": "index.html#curated-list-of-online-books",
+    "title": "My Page",
+    "section": "Curated list of online books",
+    "text": "Curated list of online books\nHere is a list of online books with interesting design and good typesetting, that I have found:\n\nButterick’s Practical Typography\nSubject: Typography\nThe Art of Chance by Dennis Sun, Gene Kim, and Anav Sood\nSubject: Probability\nInteractive Linear Algebra by Dan Margalit, Joseph Rabinoff\nSubject: Linear Algebra\nIntroduction to Modern Statistics by Mine Çetinkaya-Rundel and Johanna Hardin\nSubject: Statistics\nMathNotes\nSubject: Math"
   }
 ]
